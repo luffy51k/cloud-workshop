@@ -9,7 +9,7 @@ description: >
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://luffy51k.github.io'
+url:              'https://docs.snowdata.tech'
 baseurl:          '/cloud-workshop'
 rss:              RSS
 
